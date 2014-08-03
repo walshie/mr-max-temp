@@ -1,3 +1,13 @@
+/*
+ * top level module contains main()
+ * validates input
+ * creates job
+ * registers mapper and reducer
+ * waits for job to complete
+ * 
+ */
+
+
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
