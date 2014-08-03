@@ -4,7 +4,6 @@
  * creates job
  * registers mapper and reducer
  * waits for job to complete
- * 
  */
 
 
