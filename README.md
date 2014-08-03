@@ -1,6 +1,6 @@
-mr-max-temp
-===========
+#mr-max-temp
 
-another map reduce thingy
+##another map reduce thingy
 
-From the elephant book
+* From the elephant book
+* Reads NCDC data
